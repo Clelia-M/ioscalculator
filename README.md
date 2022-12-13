@@ -20,5 +20,5 @@ I loved working on this project as it was my first Javascript full application t
 ![Calculator Project](https://github.com/Clelia-M/shoewebsite/blob/4d568f8de1c5c1568a64855483d7311b10e3fa8c/thumb/Shoe%20website%20Thumb.png)
 
 ## Details
-![Calculator Project](XX)
+![Calculator Project](https://github.com/Clelia-M/ioscalculator/blob/1c2f275fe797cc2ff221a6d7b4d04d12c34de754/iOS%20Calculator%20project_Final%20result.png)
 
