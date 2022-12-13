@@ -13,7 +13,7 @@ I loved working on this project as it was my first Javascript full application t
 [FrontEnd Masters HTML&CSS](https://frontendmasters.com/bootcamp/calculator-html-css/) - Calculator Project: HTML & CSS by Jen Kramer
 [FrontEnd Masters Javascript](https://frontendmasters.com/bootcamp/calculator-html-css/) - Calculator Project: JavaScript by Brian Holt
 
-## Link tot he deployed application
+## Link to the deployed application
 [iOS Calculator Project](https://clelia-m.github.io/ioscalculator/)
 
 ## Final result
